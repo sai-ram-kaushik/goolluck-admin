@@ -1,0 +1,22 @@
+{
+  "productDetails": {
+    "totalProduct": {
+      "icon": "/icons/products.svg",
+      "title": "Total Products",
+      "arrowIcon": "/icons/arrow.svg",
+      "totalNumber": "150"
+    },
+    "orderPending": {
+      "icon": "/icons/orders.svg",
+      "title": "Orders Pending",
+      "arrowIcon": "/icons/arrow.svg",
+      "totalNumber": "5"
+    },
+    "totalCustomer": {
+      "icon": "/icons/customer.svg",
+      "title": "Total Customer",
+      "arrowIcon": "/icons/arrow.svg",
+      "totalNumber": "3205"
+    }
+  }
+}

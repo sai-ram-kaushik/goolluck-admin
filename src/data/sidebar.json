@@ -1,0 +1,25 @@
+{
+  "sidebar": {
+    "logo": "/logo.png",
+    "title": "RapidBy",
+    "links": [
+      {
+        "label": "Home",
+        "icon": "/icons/home.svg",
+        "path": "/admin/dashboard/"
+      },
+      {
+        "label": "Courses",
+        "icon": "/icons/products.svg",
+        "path": "/admin/dashboard/courses"
+      },
+      {
+        "label": "Workshops",
+        "icon": "/icons/orders.svg",
+        "path": "/admin/dashboard/workshops"
+      }
+    ],
+    "logoutIcon": "/icons/logout.svg",
+    "logoutTitle": "Logout"
+  }
+}
